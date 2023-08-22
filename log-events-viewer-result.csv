@@ -1,0 +1,15 @@
+timestamp,message
+1692711291543,"INIT_START Runtime Version: nodejs:18.v10	Runtime Version ARN: arn:aws:lambda:ap-southeast-1::runtime:e3aaabf6b92ef8755eaae2f4bfdcb7eb8c4536a5e044900570a42bdba7b869d9
+"
+1692711291721,"START RequestId: b748ef58-00fe-46a5-a262-95fb403c74f6 Version: $LATEST
+"
+1692711291724,"END RequestId: b748ef58-00fe-46a5-a262-95fb403c74f6
+"
+1692711291724,"REPORT RequestId: b748ef58-00fe-46a5-a262-95fb403c74f6	Duration: 2.73 ms	Billed Duration: 3 ms	Memory Size: 1024 MB	Max Memory Used: 67 MB	Init Duration: 177.11 ms	
+"
+1692711422999,"START RequestId: c68ad0da-9a25-46c1-8a58-9ab3f1f6be4a Version: $LATEST
+"
+1692711423002,"END RequestId: c68ad0da-9a25-46c1-8a58-9ab3f1f6be4a
+"
+1692711423002,"REPORT RequestId: c68ad0da-9a25-46c1-8a58-9ab3f1f6be4a	Duration: 1.62 ms	Billed Duration: 2 ms	Memory Size: 1024 MB	Max Memory Used: 67 MB	
+"
