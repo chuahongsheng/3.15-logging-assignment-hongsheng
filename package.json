@@ -1,0 +1,18 @@
+{
+  "name": "3.15-logging-assignment-hongsheng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "HongSheng",
+  "license": "ISC",
+  "dependencies": {
+    "serverless": "^3.34.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3",
+    "serverless-offline": "^12.0.4"
+  }
+}
